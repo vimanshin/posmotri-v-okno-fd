@@ -22,7 +22,7 @@
 
 ### Ссылки
 
-- URL живого сайта: [Ссылка на живой сайт](https://vimanshin.github.io/)
+- URL живого сайта: [Ссылка на живой сайт](https://vimanshin.github.io/posmotri-v-okno-fd/)
 
 ## Процесс работы
 
