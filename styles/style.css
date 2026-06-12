@@ -79,6 +79,7 @@ ol {
 }
 
 .result__video {
+  object-position: center;
   object-fit: cover;
   inline-size: 100%;
   block-size: 100%;
@@ -170,6 +171,7 @@ ol {
   color: #fff;
   font-family: inherit;
   font-size: inherit;
+  font-weight: 700;
   background-color: transparent;
   cursor: pointer;
 }
